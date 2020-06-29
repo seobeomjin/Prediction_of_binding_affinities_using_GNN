@@ -1,0 +1,5 @@
+2020-06-29 11:29:05
+Number of test data: 168
+number of parameters :  492844
+use loaded model from /home/beomjinseo/3D_ABGGCN/save7_abggae/save_abggae_431.pt
+RMSE=1.419   MAE=1.161   SD=1.424   R=0.787 (p=1.00e-36)
